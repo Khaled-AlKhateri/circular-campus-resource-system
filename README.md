@@ -5,4 +5,4 @@ Phase 1
 
 Phase 2
 1-6 sections were done by Khaled AlKhateri
-7-12 were done by Karim Bashar
+7-11 were done by Karim Bashar
